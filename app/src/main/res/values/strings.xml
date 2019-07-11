@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BeeStore</string>
+    <string name="open">Mở</string>
+    <string name="close">Đóng</string>
+    <string name="ErrorLogin">Lỗi Rồi</string>
+    <string name="facebook_app_id">2351545631798208</string>
+    <string name="google_plus_client">1086395400696-2f52hjkn2s1jg3tid3ots43qd2v74q6e.apps.googleusercontent.com</string>
+</resources>
